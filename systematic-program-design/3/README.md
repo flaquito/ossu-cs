@@ -1,3 +1,9 @@
+# Notes
+
+Compare the `Constants` of my answer and the solution for the traffic light problem: using `above` 
+(which—I believe—I didn't find in the documentation and didn't use, I remember initially thinking of it)
+would have alleviated the need for the calculations when placing the image. Looks like it's auto-centered too!
+
 # Screenshots
 
 ![](<screenshots/Bildschirmfoto 2025-04-25 um 8.23.10 PM.png>)
