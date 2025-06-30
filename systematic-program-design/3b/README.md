@@ -9,3 +9,4 @@
 ![Screenshot 4](<screenshots/Bildschirmfoto 2025-06-24 um 8.51.12 AM.png>)
 
 ![Screenshot 5](<screenshots/Bildschirmfoto 2025-06-24 um 8.51.38 AM.png>)
+![Screenshot 6](<screenshots/Screenshot 2025-06-30 at 07-33-32 Compound Data Definitions 3b Compound Data Systematic Program Design - Part 1 edX.png>)
