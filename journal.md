@@ -1,5 +1,9 @@
 # Systematic Program Design
 
+## 03.07.2025
+
+Going through `cowabunga` now—the difference between following the videos and actually going to university is noticeable, it feels like there were some parts/context missing. I don't like the comments sometimes being inconsistent (`;; interp. object` vs `;; interp. (make-object)`), but that's not a big issue.
+
 ## 02.07.2025
 
 I worked on the student problem, but wasn't very precise with it. Some points to pay attention to:
